@@ -2,7 +2,7 @@
 # Copyright 2017 Vignesh @ Annadurai
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 {
-    'name': "GST  SGST Indian Tax system 2017 for SALES and PURCHASE Version 8 & 9",
+    'name': "GST  SGST Indian Tax system 2017 for SALES and PURCHASE",
 
     'summary': """
        GST / SGST Indian Tax system 2017""",
